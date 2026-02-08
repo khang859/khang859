@@ -11,9 +11,9 @@ Software engineer who enjoys building tools that make life easier. Whether it's 
 
 ## Tech I work with
 
-**Languages:** TypeScript · JavaScript · Go · PHP · Kotlin · Dart · Lua
-**Cloud & Infra:** AWS (Amplify, Lambda) · Terraform
-**Web:** React · Drupal · Node.js
+**Languages:** TypeScript · JavaScript · Go · PHP · Kotlin · Dart · Lua<br>
+**Cloud & Infra:** AWS (Amplify, Lambda) · Terraform<br>
+**Web:** React · Drupal · Node.js<br>
 **Tools:** Neovim · Claude Code
 
 ## A bit of history

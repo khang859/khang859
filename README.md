@@ -2,7 +2,7 @@
 
 Software engineer who enjoys building tools that make life easier. Whether it's a CLI, a web app, or automating away the boring stuff — I'm into it.
 
-## Featured Project
+## Featured Projects
 
 ### [Fleet](https://github.com/khang859/fleet) — Terminal Multiplexer for AI Agents
 
@@ -23,9 +23,25 @@ A cross-platform desktop app for developers running multiple AI coding agents at
 
 [**Get Started →**](https://github.com/khang859/fleet/releases)
 
+### [Rune](https://github.com/khang859/rune) — Minimal Terminal Coding Agent in Go
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/khang859/rune/blob/main/LICENSE)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![CLI](https://img.shields.io/badge/interface-terminal-lightgrey?style=flat-square)](https://github.com/khang859/rune)
+
+A lightweight terminal coding agent built in Go for interactive, one-shot, and scripted AI development workflows.
+
+- **Agent tooling** — read, write, edit, and bash tools for terminal-first coding sessions
+- **Branching sessions** — session trees, resume, and compaction for longer workflows
+- **Extensible workflows** — markdown skills, MCP plugins, and `AGENTS.md` project context
+
+**Built with:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+[**Install →**](https://github.com/khang859/rune#quick-start)
+
 ## What I'm up to
 
-- 🚀 Building [Fleet](https://github.com/khang859/fleet), a terminal multiplexer for AI-powered development
+- 🚀 Building [Fleet](https://github.com/khang859/fleet) and [Rune](https://github.com/khang859/rune) for AI-powered development workflows
 - 🔧 Building CLI tools in **Go** and **TypeScript** ([google-suite-cli](https://github.com/khang859/google-suite-cli))
 - 🤖 Exploring AI-powered developer workflows with **Claude**
 - 📱 Dabbling in mobile with **Flutter** and **Kotlin**
